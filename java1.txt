@@ -1,0 +1,3 @@
+My first java testing through GIT
+My GIT prog
+Demo class
